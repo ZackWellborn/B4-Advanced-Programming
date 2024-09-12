@@ -1,12 +1,12 @@
 import java.util.ArrayList;
 import java.util.*;  
-//use processing ig
+
 public class MyProgram{
     public static void main(String[] args)
     {
         ArrayList<String> users = new ArrayList<String> ();
         users.add("Jimmy");
-        // Account Jimmy = new Account();        cryign rn ;;
+        // Account Jimmy = new Account();      
         // Account Alice = new Account(); 
         // Account Max = new Account();
         // Account Bob = new Account();
