@@ -3,20 +3,20 @@
 	
 	public class Main {
 		public static void main(String[] args) {
-			File myFile = new File("input.txt");
-			System.out.println(myFile.exists());
 			try {
+				File myFile = new File("input.txt");
+				System.out.println(myFile.exists());
 				Scanner sc = new Scanner(myFile);
 			
 				while (sc.hasNextLine()) {
+					//breaks here vvvvv
 					int i = sc.nextInt();
 	            	System.out.println(i);
-	        
-	        		}
+	        	}
 				sc.close();
-				} 
+			} 
 			//broken?
-			catch () {
+			catch (Exception e) {
 				System.out.println("lol");
 			}
 			
