@@ -56,7 +56,7 @@ public class NoteTakingApp {
         break;
         //case 2 is appending to a file (editing any line was too complicated sorry T-T)
             case 2: 
-            System.out.println("Which note file would you like to add to?");
+            System.out.println("Which note file would you like to read?");
 
             //"currentDirectory" is used so that this program can actually function on any computer lmao
             File[] files =  currentDirectory.listFiles(); 
