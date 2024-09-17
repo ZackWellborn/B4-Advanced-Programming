@@ -1,6 +1,6 @@
 Zachary Wellborn's Advanced Programming B4 Repository at Skyline High School
 
-banking app:
+banking app (literally doesn't function):
 https://codehs.com/sandbox/id/java-main-tnyQ0W?filepath=MyProgram.java
 
 Complex Applications 4: 
