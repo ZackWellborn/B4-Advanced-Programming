@@ -1,0 +1,32 @@
+cipher this!!
+this is currently a test to see whether or not
+my code
+is capable of reading and ciphering through line breaks
+or if it is capable of reading and ciphering anything at all
+
+UpperCASE tEstING
+
+
+two line breaks
+:./"^!@#%&*$()_-+=~`12345
+example of an encoded message:
+
+Dear Mr. man
+It is of utmost importance that this message reach you as quickly and 
+discretely as possible. It has recently come to my attention that
+there will be a unit test on Integrals and Derivatives in Math next week.
+I have discretely compiled a list (see below) of the answers to each and every
+one of the questions that will appear on the test. 
+Best of luck. 
+
+
+1) A
+2) C
+3) C
+4) D
+5) B
+6) C
+7) A
+8) D
+9) A
+10) C
